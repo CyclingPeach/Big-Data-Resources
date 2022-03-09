@@ -1,28 +1,28 @@
-#大数据/数据挖掘/推荐系统/机器学习相关资源
+# 大数据/数据挖掘/推荐系统/机器学习相关资源
 
 Share my personal resources 
 
-#视频
+# 视频
 
-###大数据视频以及讲义
+### 大数据视频以及讲义
 <http://pan.baidu.com/share/link?shareid=3860301827&uk=3978262348>
 
-###浙大数据挖掘系列
+### 浙大数据挖掘系列
 <http://v.youku.com/v_show/id_XNTgzNDYzMjg=.html?f=2740765>
 
-###用Python做科学计算
+### 用Python做科学计算
 <http://www.tudou.com/listplay/fLDkg5e1pYM.html>
 
-###R语言视频
+### R语言视频
 <http://pan.baidu.com/s/1koSpZ>
 
-###Hadoop视频
+### Hadoop视频
 <http://pan.baidu.com/s/1b1xYd>
 
-###42区 . 技术 . 创业 . 第二讲
+### 42区 . 技术 . 创业 . 第二讲
 <http://v.youku.com/v_show/id_XMzAyMDYxODUy.html>
 
-###加州理工学院公开课：机器学习与数据挖掘
+### 加州理工学院公开课：机器学习与数据挖掘
 <http://v.163.com/special/opencourse/learningfromdata.html>
 
 
@@ -30,18 +30,18 @@ Share my personal resources
 =======================
 
 
-##书籍
+## 书籍
 
-###各种书~各种ppt~更新中~
+### 各种书~各种ppt~更新中~
 <http://pan.baidu.com/s/1EaLnZ>
 
-###机器学习经典书籍小结
+### 机器学习经典书籍小结
 <http://www.cnblogs.com/snake-hand/archive/2013/06/10/3131145.html>
 
 
 =======================
 
-##QQ群
+## QQ群
 
 机器学习&模式识别 246159753
 
@@ -51,7 +51,7 @@ Share my personal resources
 
 ## 博客
 
-###推荐系统
+### 推荐系统
 
 周涛 <http://blog.sciencenet.cn/home.php?mod=space&uid=3075>
 
@@ -89,17 +89,17 @@ Google小组 <https://groups.google.com/forum/#!forum/resys>
 
 Journal of Machine Learning Research <http://jmlr.org/>
 
-###信息检索
+### 信息检索
 
 清华大学信息检索组 <http://www.thuir.cn>
 
-###自然语言处理
+### 自然语言处理
 
 我爱自然语言处理 <http://www.52nlp.cn/>
 test
-##Github	
+## Github	
 
-###推荐系统
+### 推荐系统
 
 推荐系统开源软件列表汇总和评点 <http://in.sdo.com/?p=1707>
 
